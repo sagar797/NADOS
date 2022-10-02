@@ -1,7 +1,7 @@
 aaa
 aab
 aba
-abb
 baa
+abb
 bab
 bba
