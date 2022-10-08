@@ -1,1 +1,2 @@
-5
+4 4 null 3 3 2 1 null null null 0 
+4
