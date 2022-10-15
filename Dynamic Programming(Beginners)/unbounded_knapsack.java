@@ -6,7 +6,7 @@ public class unbounded_knapsack {
         int capacity = 7;
 
         solution1D(n, items, weight, capacity);
-        // solution2D(n, items, weight, capacity);
+        solution2D(n, items, weight, capacity);
     }
 
     private static void solution1D(int n, int[] items, int[] weight, int capacity) {
